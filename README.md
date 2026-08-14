@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![NYC](/nyc.jpg)
+![NYC View From Hoboken](/hoboken.jpg)
